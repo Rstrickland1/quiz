@@ -266,20 +266,20 @@ D. Modulating the carrier wave using external devices in the receiving end
 </details>
 
 **Question 32:** Which of the following is an advantage of modulation techniques in optical communication?
-E. Efficient use of bandwidth
-F. Mixing of signals
-G. Limited data rates
-H. High latency
+A. Efficient use of bandwidth
+B. Mixing of signals
+C. Limited data rates
+D. High latency
 <details>
   <summary>Answer</summary>
   A; Efficient use of bandwidth
 </details>
 
 **Question 33:** What is the difference between a baud rate and a bit rate?
-E. Baud rate depends on the symbol, while a bit rate depends on the number of bits per second.
-F. Baud rate depends on the number of bits per second, while a bit rate depends on the symbol.
-G. Baud rate and bit rate are the same concept and can be used interchangeably.
-H. Baud rate and bit rate are unrelated to each other in the context of optical transmission.
+A. Baud rate depends on the symbol, while a bit rate depends on the number of bits per second.
+B. Baud rate depends on the number of bits per second, while a bit rate depends on the symbol.
+C. Baud rate and bit rate are the same concept and can be used interchangeably.
+D. Baud rate and bit rate are unrelated to each other in the context of optical transmission.
 <details>
   <summary>Answer</summary>
   A; Baud rate depends on the symbol, while a bit rate depends on the number of bits per second.
@@ -334,6 +334,10 @@ D. Quantum Cascade laser (QCL)
 </details>
 
 **Question 40:** ____________ type of laser forms a diode junction with the upper and lower mirrors doped as p-type and n-type materials.
+A. Distributed Feedback laser (DFB)
+B. Fabry-Perot laser (FP)
+C. Vertical Cavity Surface Emitting Laser (VCSEL)
+D. Quantum Cascade laser (QCL)
 <details>
   <summary>Answer</summary>
   C; Vertical Cavity Surface Emitting Laser (VCSEL)
@@ -385,4 +389,36 @@ D. Operating below the OSNR limit is desirable to ensure error-free operation in
   B; OSNR is expressed in decibels (dB) and calculated as the ratio of signal power to noise power.
 </details>
 
-**Question 46:** True or False - The Q-factor in optical communications is determined by comparing the average
+**Question 46:** True or False - The Q-factor in optical communications is determined by comparing the average power of the signal to the standard deviation of the noise.
+<details>
+  <summary>Answer</summary>
+  True
+</details>
+
+**Question 47:** True or False - A higher Q-factor in optical communications corresponds to a higher Bit Error Rate (BER) and poorer system performance.
+<details>
+  <summary>Answer</summary>
+  False; A higher Q-factor typically corresponds to a lower Bit Error Rate (BER) and better system performance.
+</details>
+
+**Question 48:** What is the primary function of an optical receiver?
+A. Emitting light pulses
+B. Converting electrical signals into light pulses
+C. Converting light pulses into electrical signals
+D. Polarizing incoming light signals
+<details>
+  <summary>Answer</summary>
+  C; Converting light pulses into electrical signals.
+</details>
+
+**Question 49:** Which of the following detection techniques is best suited for real-time polarization mode dispersion compensation?
+A. Direct detection
+B. Coherent detection
+C. Indirect detection
+D. Intensity detection
+<details>
+  <summary>Answer</summary>
+  B; Coherent detection
+</details>
+
+**Question 50:** What
