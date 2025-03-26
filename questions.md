@@ -1,10 +1,12 @@
 **Question 1:** True or False - Optical communication is the transmission of information, using light, over a given distance.
+
 <details>
   <summary>Answer</summary>
   True.
 </details>
 
 **Question 2:** Which of the following is an application of optical communication?
+
 A. Wireless communication  
 B. Satellite communication  
 C. Optical transport network  
@@ -15,6 +17,7 @@ D. Radio broadcasting
 </details>
 
 **Question 3:** Which of the following developments were key to the advancement of optical communications?
+
 A. Microwave technology, coaxial cables, and satellite dishes  
 B. Lasers, transmission medium (fiber), and high sensitivity photo detectors  
 C. Analog telephone lines, dial-up modems, and twisted-pair cables  
@@ -25,6 +28,7 @@ D. Magnetic tape drives, floppy disks, and CD-ROMs
 </details>
 
 **Question 4:** What of the following are the advantages of optical communications over older, copper-based technologies? Select all that apply.
+
 A. Reduced latency, lower cost, and improved security  
 B. Increased susceptibility to electromagnetic interference (EMI) and higher maintenance requirements  
 C. Enhanced signal quality and higher transmission distances  
@@ -35,12 +39,14 @@ D. Limited bandwidth capacity, decreased reliability, and compatibility issues
 </details>
 
 **Question 5:** _________ allow for more data to be imposed on the transmission medium.
+
 <details>
   <summary>Answer</summary>
   C; Advanced modulation schemes
 </details>
 
 **Question 6:** Which of the following statements are TRUE for optical communication? (Select all that apply)
+
 A. Shorter supported distances  
 B. Higher service capacity  
 C. Greater service flexibility  
@@ -52,6 +58,7 @@ E. Increased security
 </details>
 
 **Question 7:** What is the purpose of an OC transport network?
+
 A. To provide high-speed internet access to end users.  
 B. To enable wireless communication between devices.  
 C. To facilitate bulk transport of services and/or business applications from provider-to-provider, provider-to-enterprise, and enterprise-to-enterprise.  
@@ -62,6 +69,7 @@ D. To ensure secure data storage and backup solutions.
 </details>
 
 **Question 8:** Which of the following deployment types is associated with OC transport networks? (Select all that apply)
+
 A. Local Area Network (LAN)  
 B. Wide Area Network (WAN)  
 C. Metro Area Network (MAN)  
@@ -72,6 +80,7 @@ D. Personal Area Network (PAN)
 </details>
 
 **Question 9:** Which of the following protocols are specifically designed for optical transport in OC networks? (Select all that apply)
+
 A. SONET  
 B. PDH  
 C. SDH  
@@ -82,6 +91,7 @@ D. Optical Transport Network (OTN)
 </details>
 
 **Question 10:** Which of the following deployment types connects businesses or sites in a geographical location?
+
 A. Wide Area Network (WAN)  
 B. Metropolitan Area Network (MAN)  
 C. Long-haul terrestrial  
@@ -92,6 +102,7 @@ D. Submarine
 </details>
 
 **Question 11:** Which of the following statements is NOT TRUE for OC transport networks?
+
 A. Have lower bandwidth requirements than access networks  
 B. Have higher reliability requirements than access networks  
 C. Require standardized manageability across operational entities  
@@ -102,6 +113,7 @@ D. Transport voice, video, and data within and across geographical locations
 </details>
 
 **Question 12:** Which of the following formulas accurately relate frequency and wavelength, given that wavelengths are expressed in nm and frequency is expressed in THz? (Select all that apply)
+
 A. Frequency = wavelength × speed of light  
 B. Frequency = speed of light ÷ wavelength  
 C. Wavelength = frequency × speed of light  
@@ -112,18 +124,21 @@ D. Wavelength = speed of light ÷ frequency
 </details>
 
 **Question 13:** True or False - Light is a wave that consists of an electrical field and a magnetic field.
+
 <details>
   <summary>Answer</summary>
   True.
 </details>
 
 **Question 14:** True or False - Decibel is the unit of optical power levels.
+
 <details>
   <summary>Answer</summary>
   True
 </details>
 
 **Question 15:** Converting a 400 nm wavelength, will result in a frequency:
+
 A. 747.48 THz  
 B. 750.67 THz  
 C. 749.48 THz  
@@ -134,18 +149,21 @@ D. 752.12 THz
 </details>
 
 **Question 16:** True or False - Reflection occurs when light passing from one medium to another (from the core to the cladding) changes direction.
+
 <details>
   <summary>Answer</summary>
   False; Reflection is when the light ray bounces back into the original material.
 </details>
 
 **Question 17:** True or False - Total internal reflection occurs when the refractive index of the core medium is greater than the refractive index of the cladding medium.
+
 <details>
   <summary>Answer</summary>
   True
 </details>
 
 **Question 18:** What happens to the light when it enters a fiber at an angle outside the cone of acceptance?
+
 A. It propagates down the fiber without any changes  
 B. It reflects back toward the source  
 C. It is refracted into the cladding  
@@ -155,98 +173,4 @@ D. It undergoes total internal reflection
   C; It is refracted into the cladding.
 </details>
 
-**Question 19:** What are the factors on which the Numerical Aperture (NA) is based?
-A. Fiber length and diameter  
-B. Light intensity and wavelength  
-C. Refractive indices of the core and cladding material  
-D. Transmission speed and bandwidth  
-<details>
-  <summary>Answer</summary>
-  C; Refractive indices of the core and cladding material
-</details>
-
-**Question 20:** Which non-linear impairment in optical transmission transfers optical energy from a shorter wavelength channel to a longer wavelength channel?
-A. Stimulated Raman Scattering (SRS)  
-B. Polarization Mode Dispersion (PMD)  
-C. Chromatic Dispersion  
-D. Optical Fiber Attenuation  
-<details>
-  <summary>Answer</summary>
-  A; Stimulated Raman Scattering (SRS)
-</details>
-
-**Question 21:** True or False - In optical transmission, there are two types of dispersion, Intermodal or multimode dispersion and Intramodal dispersion.
-<details>
-  <summary>Answer</summary>
-  True
-</details>
-
-**Question 22:** Which of the following are examples of intramodal dispersion?
-A. Chromatic dispersion  
-B. Polarization Mode Dispersion  
-C. Both A and B  
-D. None of these  
-<details>
-  <summary>Answer</summary>
-  C; Both A and B
-</details>
-
-**Question 23:** Which of the following does not fall under the category of non-linear effects?
-A. Stimulated Brillouin Scattering (SBS)  
-B. Polarization Mode Dispersion (PMD)  
-C. Stimulated Raman Scattering (SRS)  
-D. Cross-Phase Modulation  
-<details>
-  <summary>Answer</summary>
-  B; Polarization Mode Dispersion
-</details>
-
-**Question 24:** True or False - Chromatic Dispersion can be compensated with several types of optical fiber cables?
-<details>
-  <summary>Answer</summary>
-  True
-</details>
-
-**Question 25:** Which of the following type of optical fiber has a zero-dispersion point at 1550 nm?
-A. Dispersion-Shifted Fiber  
-B. Nonzero Dispersion Shifted Fiber  
-C. Non-Dispersion Shifted Fiber  
-D. Standard Single-Mode Fiber (SMF)  
-<details>
-  <summary>Answer</summary>
-  A; Dispersion-Shifted Fiber
-</details>
-
-**Question 26:** How do Electronic dispersion compensation modules mitigate dispersion-induced signal distortions?
-A. By using Fiber Bragg Gratings (FBGs)  
-B. By utilizing Dispersion Compensating Fibers (DCFs)  
-C. By employing optical techniques  
-D. By utilizing Digital Signal Processing (DSP) algorithms  
-<details>
-  <summary>Answer</summary>
-  D; By utilizing Digital Signal Processing (DSP) algorithms
-</details>
-
-**Question 27:** What is modulation in the context of optical transmission?
-A. The process of transmitting data through fiber optic cables  
-B. The alteration of a carrier wave to impose information for transmission  
-C. The extraction of data from the received optical signal  
-D. The detection of light signals in an optical communication system  
-<details>
-  <summary>Answer</summary>
-  B; The alteration of a carrier wave to impose information for transmission.
-</details>
-
-**Question 28:** True or False - Polarization modulation technique is NOT based on the modulation of optical-field parameters.
-<details>
-  <summary>Answer</summary>
-  False; Polarization modulation technique is based on the modulation of optical-field parameters.
-</details>
-
-**Question 29:** What is indirect modulation?
-A. Modulating the output of the laser by components other than the laser itself  
-B. Modulating the output of the laser directly using the laser itself  
-C. Modulating the carrier wave through changes in fiber optic cables  
-D. Modulating the carrier wave using external devices in the receiving end  
-<details>
-  <summary>Answer</summary>
+**Question 19:** What are the factors on which the Numerical Aperture (
