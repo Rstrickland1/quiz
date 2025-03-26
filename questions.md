@@ -1,4 +1,4 @@
-Which of the following is an application of optical communication?··  <-- Two spaces added here
+Which of the following is an application of optical communication?··  
 A. Wireless communication··
 B. Satellite communication··
 C. Optical transport network··
@@ -1471,4 +1471,4 @@ D. Protecting data from corruption during storage.··
 <details>
 <summary>Answer</summary>
 A; Verifying the identity of the sender or recipient.
-</details>****
+</details>
