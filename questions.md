@@ -393,32 +393,3 @@ D. Operating below the OSNR limit is desirable to ensure error-free operation in
 <details>
   <summary>Answer</summary>
   True
-</details>
-
-**Question 47:** True or False - A higher Q-factor in optical communications corresponds to a higher Bit Error Rate (BER) and poorer system performance.
-<details>
-  <summary>Answer</summary>
-  False; A higher Q-factor typically corresponds to a lower Bit Error Rate (BER) and better system performance.
-</details>
-
-**Question 48:** What is the primary function of an optical receiver?
-A. Emitting light pulses
-B. Converting electrical signals into light pulses
-C. Converting light pulses into electrical signals
-D. Polarizing incoming light signals
-<details>
-  <summary>Answer</summary>
-  C; Converting light pulses into electrical signals.
-</details>
-
-**Question 49:** Which of the following detection techniques is best suited for real-time polarization mode dispersion compensation?
-A. Direct detection
-B. Coherent detection
-C. Indirect detection
-D. Intensity detection
-<details>
-  <summary>Answer</summary>
-  B; Coherent detection
-</details>
-
-**Question 50:** What
